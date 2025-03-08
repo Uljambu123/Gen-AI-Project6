@@ -47,8 +47,9 @@ The goal of this project is to automate the process of summarizing textual conte
 
 ## 7. How to Run
 
-### Step 1: Clone the Repository
+
 ```bash
+### Step 1: Clone the Repository
 git clone https://github.com/your-repo/summarize-text-yt-website.git
 cd summarize-text-yt-website
 
