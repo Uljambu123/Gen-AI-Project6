@@ -46,29 +46,22 @@ The goal of this project is to automate the process of summarizing textual conte
 - **Mobile Compatibility:** Improve UI for better mobile accessibility.
 
 ## 7. How to Run
-
-
-```bash
-### Step 1: Clone the Repository
+Step 1: Clone the Repository
 git clone https://github.com/your-repo/summarize-text-yt-website.git
 cd summarize-text-yt-website
 
 Step 2: Create a Virtual Environment (Optional)
-```bash
 - python -m venv venv
 - source venv/bin/activate   # On macOS/Linux
 - venv\Scripts\activate      # On Windows
 
 Step 3: Install Dependencies
-```bash
 - pip install -r requirements.txt
 
 Step 4: Run the Streamlit App
-```bash
 - streamlit run "Summarize Text From YT or Website Using LLM.py"
 
 Step 5: Provide API Key & URL
-```bash
 - Enter your Groq API key.
 - Paste a YouTube video URL or a website URL.
 - Click "Summarize" to get the text summary.
